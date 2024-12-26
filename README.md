@@ -1,6 +1,8 @@
 # TCM-Fonts
 Custom fonts I've created for use with [TitleCardMaker-WebUI](https://github.com/TitleCardMaker/TitleCardMaker-WebUI)  
-
+  
+If you find my fonts useful, please consider buying me a ko-fi.  
+  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/supremicus)
 
 ## License
