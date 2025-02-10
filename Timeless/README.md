@@ -9,7 +9,7 @@ Timeless is a three layer stacking typeface designed to be placed on top of each
 # Timeless-Gears Font
 ![timeless-gears](https://github.com/user-attachments/assets/80c28389-2d45-4f69-94fa-cf4adf54fdbb)  
 # TimelessTitleCard.py
-A premade local card_type made to show off the combined fonts. Just copy the card_types directory and all it's contents into you TitleCardMaker config directory and restart and you'll be able to select Timeless (2016) under Local for use with the show.
+A premade local card_type made to show off the combined fonts. Just copy the card_types directory and all it's contents into your TitleCardMaker config directory and restart and you'll be able to select Timeless (2016) under Local for use with the show.
 There are no extra settings configured in the example card_type as it's only an example of how to combine the fonts. If you would like to change font colors you will have to manually change the below lines in TimelessTitleCard.py to your desired colors and restart TitleCardMaker.
 Example of the Title Card this card_type makes is below.  
 ```python
